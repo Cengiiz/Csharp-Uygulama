@@ -1,0 +1,16 @@
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\bin\Debug\Medyaplayerkullanimi.exe.config
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\bin\Debug\Medyaplayerkullanimi.exe
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\bin\Debug\Medyaplayerkullanimi.pdb
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.csprojAssemblyReference.cache
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.csproj.ResolveComReference.cache
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.Form1.resources
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.Properties.Resources.resources
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.csproj.GenerateResource.cache
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.exe
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.pdb
+C:\Users\Coder\Desktop\C#\Uygulamalar\Medyaplayerkullanimi\Medyaplayerkullanimi\obj\Debug\Medyaplayerkullanimi.Form2.resources
